@@ -1,7 +1,7 @@
 # README Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit/)
 ## Description 
-This project was created to help developers quickly create a high quality README file in order to allow for more time to be spent on the actual project. <br> <br> <img src="./assets/images/screenshot3.png" style="border: 1px solid blue;" width=100% /> 
+This project was created to help developers quickly create a high quality README file in order to allow for more time to be spent on the actual project. <br> <br> <img src="./assets/images/Screenshot3.png" style="border: 1px solid blue;" width=100% /> 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,7 +12,7 @@ This project was created to help developers quickly create a high quality README
 ## Installation
 To use this project, you will need to install inquirer version 8.2.4. You can do this using the command <br> `$ npm i inquirer8.2.4` 
 ## Usage
-To run the program, use the following command in the terminal:<br> `$ node index.js`<br> <br> <img src="./assets/images/screenshot1.png" style="border: 1px solid blue;" width=100% /> <br> <br> You will be prompted with several questions regarding your project. After completing all prompts, the program will create a README file and console log "Successfully created README.md!" if successful. If unsuccessful, the program will console log the error. <br> <br> <img src="./assets/images/screenshot2.png" style="border: 1px solid blue;" width=100% /> 
+To run the program, use the following command in the terminal:<br> `$ node index.js`<br> <br> <img src="./assets/images/Screenshot1.png" style="border: 1px solid blue;" width=100% /> <br> <br> You will be prompted with several questions regarding your project. After completing all prompts, the program will create a README file and console log "Successfully created README.md!" if successful. If unsuccessful, the program will console log the error. <br> <br> <img src="./assets/images/Screenshot2.png" style="border: 1px solid blue;" width=100% /> 
 ## License
 MIT License
 ## Contributing
