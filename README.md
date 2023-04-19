@@ -1,4 +1,4 @@
-# README Generator
+# README-Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit/)
 ## Description 
 This project was created to help developers quickly create a high quality README file in order to allow for more time to be spent on the actual project. <br> <br> <img src="./assets/images/Screenshot3.png" style="border: 1px solid blue;" width=100% /> 
